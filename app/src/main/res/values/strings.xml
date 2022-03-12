@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">monthly_project</string>
+    <string name="navigation_draw_close">close_navigation_drawer</string>
+    <string name="navigation_draw_open">open_navigation_drawer</string>
+    <string name="zamowienia_title">Zamówienia</string>
+</resources>

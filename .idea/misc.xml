@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.18541666666666667" />
+        <entry key="app/src/main/res/drawable/custom_input.xml" value="0.3890625" />
+        <entry key="app/src/main/res/layout/activity_informacje.xml" value="0.3729166666666667" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.296195652173913" />
+        <entry key="app/src/main/res/layout/activity_zamowienia.xml" value="0.30520833333333336" />
+        <entry key="app/src/main/res/layout/activity_zamowienie_detail.xml" value="0.2921195652173913" />
+        <entry key="app/src/main/res/layout/detail_listview.xml" value="0.2921195652173913" />
+        <entry key="app/src/main/res/layout/drawer_layout.xml" value="0.3723958333333333" />
+        <entry key="app/src/main/res/layout/my_spinner_items.xml" value="0.3729166666666667" />
+        <entry key="app/src/main/res/layout/nav_header.xml" value="0.3723958333333333" />
+        <entry key="app/src/main/res/layout/orderlistview.xml" value="0.3729166666666667" />
+        <entry key="app/src/main/res/menu/example_menu.xml" value="0.30520833333333336" />
+        <entry key="app/src/main/res/menu/menu.xml" value="0.3723958333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
